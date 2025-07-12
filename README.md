@@ -11,11 +11,6 @@ Lightweight and simple date formatter with no dependencies — perfect for quick
 - Output format: `DD Mon YYYY` (e.g., `01 Jan 2025`)
 - No external dependencies
 
-## Installation
-
-```bash
-npm install date-mini-format
-
 ## Usage
 
 import { formatDate } from 'date-mini-format'
@@ -39,3 +34,7 @@ node test.js
 
 MIT © Olha Radchenko
 
+## Installation
+
+```bash
+npm install date-mini-format
