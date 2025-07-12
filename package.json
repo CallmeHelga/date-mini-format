@@ -1,0 +1,27 @@
+{
+  "name": "date-mini-format",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "Formats a date into 'DD Mon YYYY' format like '01 Jan 2025'.",
+  "keywords": [
+    "date",
+    "formatter",
+    "format",
+    "javascript",
+    "npm",
+    "utility"
+  ],
+  "author": "Olha Radchenko",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CallmeHelga/date-mini-format.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CallmeHelga/date-mini-format/issues"
+  },
+  "homepage": "https://github.com/CallmeHelga/date-mini-format#readme",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
