@@ -19,7 +19,7 @@ import { formatDate } from 'date-mini-format'
 formatDate('2025-01-01') -> "01 Jan 2025"
 
 - Example with Date object
-formatDate(new Date()) -> "12 Jul 2025"
+formatDate(new Date()) -> "01 Jan 2025"
 
 ## Handling Invalid Input
 
